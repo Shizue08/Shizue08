@@ -11,7 +11,58 @@ Shizue08/Shizue08 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-//https://shorturl.at/zxaJZ//
+import java.util.Scanner;
 
-https://codesandbox.io/p/devbox/sam-react-4wrcgj?layout=%257B%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522rootPanelGroup%2522%253A%257B%2522direction%2522%253A%2522horizontal%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522id%2522%253A%2522ROOT_LAYOUT%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522clzng0l0v00073j6gzcyc7926%2522%252C%2522sizes%2522%253A%255B70%252C30%255D%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522EDITOR%2522%252C%2522direction%2522%253A%2522horizontal%2522%252C%2522id%2522%253A%2522EDITOR%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522EDITOR%2522%252C%2522id%2522%253A%2522clzng0l0v00023j6g38aqsfo0%2522%257D%255D%257D%252C%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522SHELLS%2522%252C%2522direction%2522%253A%2522horizontal%2522%252C%2522id%2522%253A%2522SHELLS%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522SHELLS%2522%252C%2522id%2522%253A%2522clzng0l0v00043j6gmwad978y%2522%257D%255D%257D%255D%257D%252C%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522DEVTOOLS%2522%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522DEVTOOLS%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522DEVTOOLS%2522%252C%2522id%2522%253A%2522clzng0l0v00063j6guzuqfaso%2522%257D%255D%257D%255D%252C%2522sizes%2522%253A%255B50%252C50%255D%257D%252C%2522tabbedPanels%2522%253A%257B%2522clzng0l0v00023j6g38aqsfo0%2522%253A%257B%2522tabs%2522%253A%255B%257B%2522id%2522%253A%2522clzng0l0v00013j6g455a5f6x%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522type%2522%253A%2522FILE%2522%252C%2522filepath%2522%253A%2522%252FREADME.md%2522%252C%2522state%2522%253A%2522IDLE%2522%257D%252C%257B%2522id%2522%253A%2522clzni2iqx00023j6g03griovp%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522type%2522%253A%2522FILE%2522%252C%2522initialSelections%2522%253A%255B%257B%2522startLineNumber%2522%253A24%252C%2522startColumn%2522%253A28%252C%2522endLineNumber%2522%253A24%252C%2522endColumn%2522%253A28%257D%255D%252C%2522filepath%2522%253A%2522%252Fsrc%252FApp.tsx%2522%252C%2522state%2522%253A%2522IDLE%2522%257D%255D%252C%2522id%2522%253A%2522clzng0l0v00023j6g38aqsfo0%2522%252C%2522activeTabId%2522%253A%2522clzni2iqx00023j6g03griovp%2522%257D%252C%2522clzng0l0v00063j6guzuqfaso%2522%253A%257B%2522id%2522%253A%2522clzng0l0v00063j6guzuqfaso%2522%252C%2522activeTabId%2522%253A%2522clzng1gzo00123j6gwe22xsx3%2522%252C%2522tabs%2522%253A%255B%257B%2522id%2522%253A%2522clzng0l0v00053j6g7mhklt2j%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522type%2522%253A%2522TASK_PORT%2522%252C%2522taskId%2522%253A%2522dev%2522%252C%2522port%2522%253A5173%257D%252C%257B%2522type%2522%253A%2522TASK_PORT%2522%252C%2522port%2522%253A5173%252C%2522taskId%2522%253A%2522dev%2522%252C%2522id%2522%253A%2522clzng1gzo00123j6gwe22xsx3%2522%252C%2522mode%2522%253A%2522permanent%2522%257D%255D%257D%252C%2522clzng0l0v00043j6gmwad978y%2522%253A%257B%2522tabs%2522%253A%255B%257B%2522id%2522%253A%2522clzng0l0v00033j6gsqrpsrqn%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522type%2522%253A%2522TASK_LOG%2522%252C%2522taskId%2522%253A%2522dev%2522%257D%255D%252C%2522id%2522%253A%2522clzng0l0v00043j6gmwad978y%2522%252C%2522activeTabId%2522%253A%2522clzng0l0v00033j6gsqrpsrqn%2522%257D%257D%252C%2522showDevtools%2522%253Atrue%252C%2522showShells%2522%253Atrue%252C%2522showSidebar%2522%253Atrue%252C%2522sidebarPanelSize%2522%253A15%257D
+public class FCFS_Scheduling {
 
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter the number of processes: ");
+        int n = sc.nextInt();
+
+        int[] processes = new int[n];
+        int[] burstTime = new int[n];
+        int[] completionTime = new int[n];
+        int[] turnaroundTime = new int[n];
+        int[] waitingTime = new int[n];
+
+        // Input the burst time for each process
+        for (int i = 0; i < n; i++) {
+            processes[i] = i + 1;
+            System.out.print("Enter burst time for process " + (i + 1) + ": ");
+            burstTime[i] = sc.nextInt();
+        }
+
+        // Calculating completion time
+        completionTime[0] = burstTime[0];
+        for (int i = 1; i < n; i++) {
+            completionTime[i] = completionTime[i - 1] + burstTime[i];
+        }
+
+        // Calculating turnaround time and waiting time
+        for (int i = 0; i < n; i++) {
+            turnaroundTime[i] = completionTime[i];
+            waitingTime[i] = turnaroundTime[i] - burstTime[i];
+        }
+
+        // Displaying the results
+        System.out.println("\nProcess\tBurst Time\tCompletion Time\tTurnaround Time\tWaiting Time");
+        for (int i = 0; i < n; i++) {
+            System.out.println("P" + processes[i] + "\t\t" + burstTime[i] + "\t\t" + completionTime[i] + "\t\t" + turnaroundTime[i] + "\t\t" + waitingTime[i]);
+        }
+
+        // Calculating average turnaround time and average waiting time
+        double totalTurnaroundTime = 0;
+        double totalWaitingTime = 0;
+        for (int i = 0; i < n; i++) {
+            totalTurnaroundTime += turnaroundTime[i];
+            totalWaitingTime += waitingTime[i];
+        }
+
+        System.out.println("\nAverage Turnaround Time: " + (totalTurnaroundTime / n));
+        System.out.println("Average Waiting Time: " + (totalWaitingTime / n));
+
+        sc.close();
+    }
+}
